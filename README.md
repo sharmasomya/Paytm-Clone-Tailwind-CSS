@@ -5,7 +5,7 @@
 - Tailwind CSS -  Core Concepts, Flexbox, Box Shadow Effects, Spacing, Sizing, Borders,       Backgrounds, Responsiveness and a lot more.
 
 ## Completion Time
-- Around 12 Hours
+- Around 10 Hours
 
 ## Ideal Display Resolution
 - 1366 * 768
